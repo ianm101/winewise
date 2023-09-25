@@ -1,3 +1,7 @@
 .venv
-
+winemag-*
 .~lock.*
+.env
+sql_backup.sql
+wine_recommender.log
+__pycache__
